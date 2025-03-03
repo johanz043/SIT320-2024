@@ -1,0 +1,28 @@
+digraph {
+	<__main__.Node object at 0x0000028397C9C640> [label="5
+Bal: 0"]
+	<__main__.Node object at 0x0000028397C9C760> [label="3
+Bal: 1"]
+	<__main__.Node object at 0x0000028397C9C640> -> <__main__.Node object at 0x0000028397C9C760>
+	<__main__.Node object at 0x0000028397C9C550> [label="2
+Bal: 1"]
+	<__main__.Node object at 0x0000028397C9C760> -> <__main__.Node object at 0x0000028397C9C550>
+	<__main__.Node object at 0x0000028397C9C7C0> [label="1
+Bal: 0"]
+	<__main__.Node object at 0x0000028397C9C550> -> <__main__.Node object at 0x0000028397C9C7C0>
+	<__main__.Node object at 0x0000028397C9C4C0> [label="4
+Bal: 0"]
+	<__main__.Node object at 0x0000028397C9C760> -> <__main__.Node object at 0x0000028397C9C4C0>
+	<__main__.Node object at 0x0000028397C9CD90> [label="7
+Bal: -1"]
+	<__main__.Node object at 0x0000028397C9C640> -> <__main__.Node object at 0x0000028397C9CD90>
+	<__main__.Node object at 0x0000028397C9C5E0> [label="6
+Bal: 0"]
+	<__main__.Node object at 0x0000028397C9CD90> -> <__main__.Node object at 0x0000028397C9C5E0>
+	<__main__.Node object at 0x0000028397C9C490> [label="8
+Bal: -1"]
+	<__main__.Node object at 0x0000028397C9CD90> -> <__main__.Node object at 0x0000028397C9C490>
+	<__main__.Node object at 0x0000028397C9C160> [label="9
+Bal: 0"]
+	<__main__.Node object at 0x0000028397C9C490> -> <__main__.Node object at 0x0000028397C9C160>
+}
